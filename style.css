@@ -41,3 +41,6 @@ footer {
     background-color: #222;
     color: white;
 }
+nav a:hover {
+    color: blue;
+}
